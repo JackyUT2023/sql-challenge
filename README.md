@@ -2,9 +2,9 @@
 This is My Boot Camp Module 9 Challenge
 
  Data Modeling
-    -- Entity Relationship Diagram is included as a PNG. image.
-    -- Table schemas (Table Schemata.sql) provided for all 6 tables.
-    -- Tool(QuickDBD) was used for data modeling.
+- Entity Relationship Diagram is included as a PNG. image.
+- Table schemas (Table Schemata.sql) provided for all 6 tables.
+- Tool(QuickDBD) was used for data modeling.
 
 
 Data Engineering
